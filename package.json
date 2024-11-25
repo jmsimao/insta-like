@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "insta-like",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,14 +13,12 @@
   "homepage": "",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/guilhermeonrails/insta-like.git"
   },
   "bugs": "",
   "keywords": [],
   "author": {
-    "name": "",
-    "email": "",
-    "url": ""
+    "name": "guilhermeonrails"
   },
   "contributors": [],
   "scripts": {
@@ -29,5 +27,8 @@
   },
   "devDependencies": {
     "parcel": "^2.12.0"
+  },
+  "dependencies": {
+    "": "file:"
   }
 }
